@@ -46,12 +46,11 @@ a:hover{
 
 #media-experience ul {
   list-style-position: inside;
-
   padding:0px 0px 10px 0px;
   }
 
 #media-experience p  time {
-float:right;
+  float:right;
   position: relative;
   font-size:24px;
 }
@@ -100,7 +99,9 @@ article h3{margin:0px 0px 3px 0px;}
 article p{margin:0;}
 
 #content ul {color:#696969;margin:0;}
+
 #proficiencies p {color:#696969;}
+
 #education p {
   color:#696969;
   padding:0px;
