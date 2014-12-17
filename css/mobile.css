@@ -1,0 +1,76 @@
+@media (max-width: 320px) {
+
+
+  #box {
+    margin:0;
+    padding:0;
+    width:320px;
+  }
+
+  body{
+    background: #ffffff;
+    font-size:10px;
+  }
+
+  header {
+    position:relative;
+    font-size:10px;
+  }
+
+  header h1 {
+    margin: 0;
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+    font-size: 30px;
+    float:none;
+    color:rgb(157,200,228);
+  }
+
+  nav ul{
+    padding:0;
+    margin: 0;
+    text-align: center;
+    border-bottom: 3px solid #222;
+  }
+
+
+  nav li{
+    font-family: 'PT Serif', serif;
+    margin-top:0px;
+    display: inline;
+    margin-left: 0px;
+    font-size: 20px;
+    padding: 0 5px;
+  }
+
+  #media-experience p time {
+    float:none;
+    font-size:10px;
+  }
+
+
+  #education time {
+    color:black;
+    float:none;
+    font-size:10px;
+  }
+
+  h2 {
+    font-family: 'PT Serif', serif;
+    font-weight: normal;
+    font-size:20px;
+    margin:24px 0px;
+    font-weight:bold;
+    color:rgb(138,167,180);
+  }
+
+
+  h3{
+    font-family: 'PT Serif', serif;
+    font-weight: normal;
+    font-size:15px;
+  }
+
+
+
+}

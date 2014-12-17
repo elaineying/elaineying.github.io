@@ -7,7 +7,6 @@ body{
   }
 
 #box{
-  background-color:#E6E6FA;
   padding:35px;
   width:1000px;
   margin-left:auto;
@@ -23,7 +22,7 @@ header img {
 height:160px; width:auto;
 position:absolute;
 top:0;
-right:40px;
+right:20px;
 border:3px solid #778899;
 }
 
@@ -31,7 +30,14 @@ header a{color:black;}
 
 header p{margin:0;}
 
-.nav li{
+nav ul{padding:40px 0px 20px 0px;
+  margin:15px 0px 10px 0px;
+  clear:left;
+  text-align:center;
+  border-bottom:grey dashed 1px;
+}
+
+nav li{
   font-family: 'PT Serif', serif;
   margin-top:0px;
   display: inline;
@@ -40,22 +46,17 @@ header p{margin:0;}
   padding: 5px 65px 5px 0px;
 }
 
-.nav ul{padding:40px 0px 20px 0px;
-margin:15px 0px 10px 0px;
-clear:left;
-text-align:center;
-border-bottom:grey dashed 1px;
-}
+nav a {color:rgb(138,167,180);}
 
 a {text-decoration: none;}
 
 a {color:black;}
 
-.nav a {color:rgb(138,167,180)}
+
 
 a:hover{
-  color:#8B0000;
-  font-size:larger}
+  color:#8B0000;}
+
 
 #media-experience ul {
   list-style-position: inside;
@@ -92,6 +93,7 @@ float:left;
 color:rgb(157,200,228);
 }
 
+
 h2 {
 font-family: 'PT Serif', serif;
   font-weight: normal;
@@ -107,6 +109,8 @@ font-weight: normal;
 font-size:30px;
 }
 
+
+
 article h3{margin:0px 0px 3px 0px;}
 
 article p{margin:0;}
@@ -120,6 +124,13 @@ article p{margin:0;}
   padding:0px 0px 10px 0px;
 }
 
+.container{
+  padding: 3px;
+  margin:2px auto;
+  text-align:center;}
+
+img {width:100%;
+height:auto;}
 
 
 footer {
