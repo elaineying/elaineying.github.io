@@ -33,6 +33,9 @@ header a{color:black;}
 
 header p{margin:0;}
 
+main {
+  margin-top: 1in;
+}
 
 
 a {text-decoration: none;}
@@ -87,7 +90,8 @@ font-family: 'PT Serif', serif;
   font-weight:bold;
 }
 
-#media-experience h2{margin-top:40px;}
+#media-experience h2{
+  margin-top:40px;}
 
 h3{
 font-family: 'PT Serif', serif;
@@ -110,7 +114,7 @@ article p{margin:0;}
 
 footer{display:none;}
 
-.nav {display: none;}
+nav{display:none;}
 
 address {
   text-align:right;

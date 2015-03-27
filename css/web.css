@@ -48,6 +48,10 @@ nav li{
 
 nav a {color:rgb(138,167,180);}
 
+main {
+  margin-top: 3em;
+}
+
 a {text-decoration: none;}
 
 a {color:black;}
